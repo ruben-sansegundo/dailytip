@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dailytip</string>
+    <string name="widget_description">Muestra tu consejo diario en la pantalla de inicio</string>
+</resources>
